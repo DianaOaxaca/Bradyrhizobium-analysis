@@ -12,13 +12,13 @@ In this study we analized 9 bacterial strains, isolated from nodules of three di
 
 | Strain   | Source nodule plant isolation | Geographical locations      |
 | -------- | ----------------------------- | --------------------------- |
-| BCCG4001 | *Lysiloma sp.*                | Cuernavaca, Morelos. México |
-| B20      | *Lysiloma sp.*                | Cuernavaca, Morelos. México |
-| B12      | *Lysiloma sp.*                | Cuernavaca, Morelos. México |
-| 4N       | *Inga vera*                   | Xico, Veracruz. Mexico      |
-| 14       | *Inga vera*                   | Xico, Veracruz. Mexico      |
-| 23       | *Inga vera*                   | Xico, Veracruz. Mexico      |
-| 1N3      | *Inga vera*                   | Xico, Veracruz. Mexico      |
+| CCGB01   | *Lysiloma sp.*                | Cuernavaca, Morelos. México |
+| CCGB20   | *Lysiloma sp.*                | Cuernavaca, Morelos. México |
+| CCGB12   | *Lysiloma sp.*                | Cuernavaca, Morelos. México |
+| CCGUVB4N | *Inga vera*                   | Xico, Veracruz. Mexico      |
+| CCGUVB14 | *Inga vera*                   | Xico, Veracruz. Mexico      |
+| CCGUVB23 | *Inga vera*                   | Xico, Veracruz. Mexico      |
+| CCGUVB1N3| *Inga vera*                   | Xico, Veracruz. Mexico      |
 | B51278   | *Lysiloma divaricatum*        | Edimburgo, Escocia          |
 | B51279   | *Lysiloma divaricatum*        | Edimburgo, Escocia          |
 
